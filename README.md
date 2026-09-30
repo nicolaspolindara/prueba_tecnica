@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Proyecto de extracción y evaluación de formularios (IA generativa)
 
 Este repositorio implementa un pipeline para extraer información estructurada desde formularios escaneados y evaluarla contra anotaciones humanas en formato clave-valor.
@@ -102,3 +103,8 @@ Fórmulas:
 - `precision = TP / (TP + FP)`
 - `recall = TP / (TP + FN)`
 - `f1 = 2 * precision * recall / (precision + recall)`
+=======
+Repo para prueba tecnica cientifico de datos
+
+NOTA: este repo no contiene credenciales de ningun tipo
+>>>>>>> b8c3d11e6085e3d38d6918755888708a198bf391
