@@ -1,0 +1,32 @@
+
+Variables de entorno (extracción)
+
+- `PROJECT_ID`: proyecto GCP.
+- `LOCATION`: región de Vertex AI.
+- `RUTA_CREDENCIALES`: path del service account JSON.
+- `MODEL_NAME`: modelo multimodal
+- `DIR_IMAGENES`: carpeta de entrada.
+- `DIR_SALIDA`: carpeta de salidas.
+- `MAX_RETRIES` (default 3): balance entre resiliencia y latencia.
+- `SLEEP_BETWEEN_FILES` (default 0.5): reduce bursts hacia API.
+- `MAX_WORKERS` (default 3): paralelismo controlado.
+- `INPUT_PRICE_PER_1M`, `OUTPUT_PRICE_PER_1M`: para costo estimado configurable.
+
+
+Score compuesto por par:
+
+- similitud de clave (`sk`) vía Jaccard de tokens normalizados
+- similitud de valor (`sv`) como máximo de:
+  - Jaccard de tokens,
+  - Jaccard de lista canónica (`|`, `;`, `,`),
+  - similitud de caracteres (`SequenceMatcher`)
+
+Fórmula:
+`score = w_key * sk + w_val * sv`
+
+Métricas reportadas
+
+- `TP` -true positives, `FP`-false positives, `FN`-false negatives
+- `precision = TP / (TP + FP)`
+- `recall = TP / (TP + FN)`
+- `f1 = 2PR/(P+R)`

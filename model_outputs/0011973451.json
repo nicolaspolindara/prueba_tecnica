@@ -1,0 +1,57 @@
+{
+  "tipo_documento": "NEW EXPORT PRODUCT DEVELOPMENT CHARTER",
+  "campos": {
+    "Date": "6/24/94",
+    "BRAND/PROJECT NAME": "RICHLAND Kings (Soft Pack) - Duty Free (Phoenix)",
+    "MARKET(S)": "World-wide Duty Free",
+    "OBJECTIVE": "Generate incremental volume for B&W by providing a low price brand to various international duty-free markets.",
+    "SOURCE OF BUSINESS: Major Competitive Brands": "TBD",
+    "SOURCE OF BUSINESS: Target Audience": "Value-conscious Smokers",
+    "COST OR RETAIL PRICING": "TBD",
+    "VOLUME: Start Up": "TBD",
+    "VOLUME: Est. Monthly Ongoing": "TBD",
+    "TIMETABLE: Manufacturing": null,
+    "TIMETABLE: Product Specs Data": null,
+    "TIMETABLE: Start Manufacture Date": null,
+    "TIMETABLE: Shipping": null,
+    "TIMETABLE: In-Market Arrival Date": null,
+    "TIMETABLE: Launch Date": null,
+    "APPROVALS: Group Prod Dir": null,
+    "APPROVALS: Date (Group Prod Dir)": null,
+    "APPROVALS: VP Int'l Planning": null,
+    "APPROVALS: Dir. Int'l Admin": null,
+    "APPROVALS: VP Int'l Marketing": null,
+    "APPROVALS: Regional Dir/VP": null,
+    "APPROVALS: Senior VP Int'l": null
+  },
+  "tablas": [
+    {
+      "nombre": "INITIAL MATERIALS REQUIRED",
+      "filas": [
+        {
+          "Item": "Pack Flate/Labels",
+          "Qty In Units": "On Hand",
+          "Dollar Cost": null
+        },
+        {
+          "Item": "Cartons",
+          "Qty In Units": "On Hand",
+          "Dollar Cost": null
+        },
+        {
+          "Item": "Cases",
+          "Qty In Units": "500",
+          "Dollar Cost": "$250"
+        }
+      ]
+    }
+  ],
+  "warnings": [
+    "OCR misread 'Start Manufacture Date' as '$turt Manufacture Date'.",
+    "OCR misread 'Date' as 'Dala' under APPROVALS section.",
+    "OCR misread 'Dir. Int'l Admin' as 'Dir. IoT Admin'.",
+    "OCR misread 'VP Int'l Marketing' as 'VP Int? Marketing'.",
+    "OCR misread 'Senior VP Int'l' as 'Senior VP Inti'.",
+    "OCR misread 'Dollar Cost' as 'Poltar Cost' in 'INITIAL MATERIALS REQUIRED' table header."
+  ]
+}

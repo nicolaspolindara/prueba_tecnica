@@ -1,0 +1,58 @@
+{
+  "tipo_documento": "Formula Composit Form",
+  "campos": {
+    "Company Name": "AARBERG-STRAHAN INKS & COATINGS CORP.",
+    "Customer": "B&W",
+    "Product Name": "Falcon Green",
+    "Formula No.": "SKGC-4518",
+    "Received Date": "DEC 1 1 1989",
+    "Received By": "A. C. D.",
+    "Total Solids": null,
+    "Total V.O.C.s": "100.00%",
+    "Technician": "DLR",
+    "Date": "12/5/89",
+    "Document ID": "605110969"
+  },
+  "tablas": [
+    {
+      "nombre": "Solids Composit",
+      "filas": [
+        {
+          "Ingredient": "Lecithin (Food Grade)"
+        },
+        {
+          "Ingredient": "Epoxidized Soy Bean Oil"
+        },
+        {
+          "Ingredient": "Cellulose Nitrate Wet w/2 Propanol"
+        },
+        {
+          "Ingredient": "Pigment, Yellow 34"
+        },
+        {
+          "Ingredient": "Pigment, Blue 15:4"
+        },
+        {
+          "Ingredient": "Ester of Modified Tricylie Carbonylto Acid Jonrez IM824"
+        }
+      ]
+    },
+    {
+      "nombre": "Solvent Composit to % V.O.C.s",
+      "filas": [
+        {
+          "Ingredient": "Toluene"
+        },
+        {
+          "Ingredient": "Isopropyl Acetate"
+        },
+        {
+          "Ingredient": "N-Propyl Acetate"
+        }
+      ]
+    }
+  ],
+  "warnings": [
+    "OCR discrepancy for 'Ester of Modified Tricylie Carbonylto Acid Jonrez IM824'. Original image appears to be 'Ester of Modified Tricyclic Carboxylic Acid Jonrez IM824'."
+  ]
+}

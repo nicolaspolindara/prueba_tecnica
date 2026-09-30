@@ -1,0 +1,39 @@
+{
+  "tipo_documento": "VIDEO TAPE APPROVAL",
+  "campos": {
+    "Date": "September 25, 1969",
+    "Contact": "Larry Odum",
+    "Agency": "SSC&B, Inc",
+    "Address": "575 Lexington Avenue, New York, New York 10022",
+    "Client": "American Tobacco Company",
+    "Product": "Pall Mall Filter tip",
+    "Received Date": "SEP 30",
+    "Received By": "PERCY & SMITH",
+    "Signatory Name": "Cynthia Fates",
+    "Signatory Department": "BROADCAST STANDARDS AND PRACTICES",
+    "Form Identifier": "XER 344/B-2 REV 5/68"
+  },
+  "tablas": [
+    {
+      "nombre": "Video Tape Approval Details",
+      "filas": [
+        {
+          "Description": "Presenter/Girl Rev",
+          "Code": "AT-M/B-T-64",
+          "Duration": ":60"
+        },
+        {
+          "Description": "Pall Mall Filter Tip",
+          "Code": "AT-P/F-T-317",
+          "Duration": ":30"
+        }
+      ]
+    }
+  ],
+  "warnings": [
+    "The OCR for 'Product' field shows 'Productt', corrected to 'Product'.",
+    "The full date for 'Received Date' is partially illegible after 'SEP 30'.",
+    "The text 'LT 1-7777' at the top is present but its purpose/label is unclear, so it's not included as a field.",
+    "The text 'CF:cb' and 'm' near the signature are present but their purpose/label is unclear, so they are not included as fields."
+  ]
+}

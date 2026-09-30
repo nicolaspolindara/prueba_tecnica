@@ -1,0 +1,18 @@
+{
+  "tipo_documento": "Project Tracking Form",
+  "campos": {
+    "KOOL": "0595-529-1510-0",
+    "PROJECT NO.": "1987-144-K",
+    "DESCRIPTION": "KMDP ANALYSIS UTILIZING BLACK SWITCHING STUDY DATA",
+    "MR PERSONNEL": "C. B. Pugh",
+    "SUPPLIER": "Market Facts",
+    "AUTHORIZED COST": "12,500",
+    "AUTHORIZED COST DATE": "10-15-87",
+    "CARRYOVER TO 1988": "Q",
+    "Document ID": "466024372"
+  },
+  "tablas": [],
+  "warnings": [
+    "The value for 'CARRYOVER TO 1988' appears incomplete or abbreviated as 'Q'."
+  ]
+}

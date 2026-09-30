@@ -1,0 +1,39 @@
+{
+  "tipo_documento": "CHANGE OF AUTHORIZED COST",
+  "campos": {
+    "DATE": "11/28/84",
+    "AUTHORIZATION NO.": "NP-75",
+    "PROJECT NAME": "GEMINI AWARENESS ATTITUDE & USAGE MONITOR - PORTLAND",
+    "SUPPLIER": "BURKE MARKETING RESEARCH",
+    "PREVIOUS $ COMMITMENTS THIS PROJECT": "220,000",
+    "AMOUNT OF CHANGE (INCREASE/DECREASE)": "+1,000 | 0.5",
+    "ADJUSTED TOTAL COST OF PROJECT": "221,000",
+    "REASONS": "REVISED COST DUE TO A QUESTION ADDED TO THE SECOND WAVE AND CHANGES MADE IN WORDING OF OTHER QUESTIONS. THIS COVERS THE COST OF ADDITIONAL TELEPHONE INTERVIEW LENGTH, CODING OF THE OPEN-END, PROGRAMING CHANGES, TABULATION AND ANALYSIS.",
+    "PROJECTED Field Start": "Aug. 1984",
+    "PROJECTED Field Complete": "Dec. 1984",
+    "PROJECTED Final Report Due": "Jan. 1985",
+    "TOTAL AREA BUDGET (REV) 1984": "3,488,000.00",
+    "CURRENT BAL. AVAILABLE": "17,195.66",
+    "THIS CHANGE (From Current Budget)": "-800.00",
+    "THIS AMOUNT (From Next Year's Budget)": "200.00",
+    "NEW BALANCE": "16,395.66",
+    "COMMITTED TO DATE (Current Year)": "3,493,204.34",
+    "SUBMITTED BY Name": "D. A. BEATTY",
+    "SUBMITTED BY Date": "11/29/84",
+    "APPROVED BY 1 Name": "T. E. ALBERT",
+    "APPROVED BY 1 Date": "12/10/84",
+    "APPROVED BY 2 Name": "B. A. SPROULE",
+    "APPROVED BY 2 Date": "12-10-84",
+    "APPROVED BY 3 Name": "L. E. GRAVELY",
+    "APPROVED BY 3 Date": "12/11/84",
+    "APPROVED BY 4 Name": "A. J. MELLMAN",
+    "APPROVED BY 4 Date": null,
+    "PROJECT NO.": "1984-175NP",
+    "ACCOUNT NAME": "New Products 681925147"
+  },
+  "tablas": [],
+  "warnings": [
+    "Corrected 'APPROVED BY 1 Date' from OCR '12/10/87' to '12/10/84' based on image.",
+    "Corrected 'APPROVED BY 3 Date' from OCR '12-11' to '12/11/84' based on image."
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "documentos": 20,
+  "tiempo_total_s": 245.971,
+  "tiempo_promedio_s": 12.299,
+  "tokens_entrada": 31120,
+  "tokens_salida": 11501,
+  "costo_estimado_total_usd": 0.150189
+}

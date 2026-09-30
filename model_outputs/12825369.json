@@ -1,0 +1,36 @@
+{
+  "tipo_documento": "BULLETIN ADVERTISING—INSPECTION REPORT",
+  "campos": {
+    "MARKET": "Lakeland Metro Market",
+    "POPULATION": "400,400",
+    "OPERATOR": "The Lamar Corp.",
+    "BRAND": "Misty",
+    "SCHEDULE": "2/20 & 3/20",
+    "RIDE DATE": "3/23/91",
+    "FULL INSPECTION": null,
+    "SPOT CHECK": null,
+    "NUMBER VIEWED": null,
+    "BULLETIN_checkbox": "unchecked",
+    "WALL_checkbox": "unchecked",
+    "ROTARY_checkbox": "checked",
+    "LOCATION": "See attached list",
+    "NO. OF ROTARIES": "8 RB",
+    "DAILY EFFECTIVE CIRCULATION": "240,900",
+    "AVERAGE DAILY EFFECTIVE CIRCULATION": "218,499",
+    "DESIGN ON DISPLAY": null,
+    "COMMENTS_Description of Location or Rotary Plan, Brand Category Competition": "This is a comparatively easy market to cover. It is less than an hour from Tampa airport. Our bulletins are on every major arterial and in all quadrants of the area. No changes were made. Some minor an-premise blocking and trees were noted, but not deemed serious enough for correction. The only other tobacco in the market was a standing 6 Panel RJR buy currently showing Camel.",
+    "COMMENTS ON PLANT_Condition, Structures, Painting Ability, Lighting, Cooperation, etc.": "The plant is well maintained and covers all parts of the market. Lamar looks like a good citizen here, keeping a good-looking operation. doing public service, and carrying a lot of local advertisers.",
+    "FORM NO.": "MS-002",
+    "Document ID": "970518461",
+    "Source": "PRODUCED FROM B&W WEB SITE"
+  },
+  "tablas": [],
+  "warnings": [
+    "Field 'FULL INSPECTION' found but no value extracted.",
+    "Field 'SPOT CHECK' found but no value extracted.",
+    "Field 'NUMBER VIEWED' found but no value extracted.",
+    "Field 'DESIGN ON DISPLAY' found but no value extracted.",
+    "Signature found for 'INSPECTION BY' but no text value extracted.",
+    "OCR discrepancy for 'FORM NO.': OCR read 'FORUM NO MS-', but crop suggests 'FORM NO. MS-002'. Using 'MS-002'."
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "tipo_documento": "RESPONSE CODE REQUEST CONFIRMATION",
+  "campos": {
+    "From": "Joyce Bagby",
+    "Date": "September 10, 1996",
+    "Brand": "Eclipse",
+    "PPS Program #": "602399",
+    "Requested By": null,
+    "Title": "Sneak Preview Confirmation Call-Charlotte Tests",
+    "Description": "Record of confirmation calls for sneak preview appointments",
+    "Fulfillment Data Entry at": "APAC",
+    "Circulation Quantity": "300",
+    "Estimated Response": "100.00 %",
+    "Estimated Responders": "300",
+    "Distribution Drop Date": "10/03/96",
+    "Expiration Date": null,
+    "Response Code Assigned": "W25",
+    "Address, postal requirements, barcodes, document storage, and batch numbers to be supplied by": "APAC DE Fulfillment Vendor",
+    "C: Names": "Suzi Hicks. RJR-IR | Karen Giddens | Drew Huyett | Jackson Roper",
+    "Other Names": "Debbie Lockery | Vanessa Oakley | Melissa Andrews - TBM | Tammi LaManna - MB"
+  },
+  "tablas": [],
+  "warnings": [
+    "Value for 'Requested By' is empty.",
+    "Value for 'Expiration Date' is empty.",
+    "Unlabeled text '52251 2963' found on the right side of the document."
+  ]
+}

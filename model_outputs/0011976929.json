@@ -1,0 +1,22 @@
+{
+  "tipo_documento": "SPECIAL EVENTS",
+  "campos": {
+    "State": "Illinois",
+    "City/Town": "Dundee",
+    "Type of Event": "Beauty Contest",
+    "Estimated Attendance": "700",
+    "Dates": "March 3rd, 4th & 5th,",
+    "Name of Event": "Mrs. Illinois Beauty Pageant",
+    "Contact (Name/Telephone)": "Ms. Joy Weathers (Sales) 312/426-8000",
+    "Audience Concentration": "90% White - 10% Black",
+    "Audience Age category": "21 yrs. to 45 yrs.",
+    "Recommended Brand(s) and Promotional Activity": "BARCLAY sampling, 2 - 12M cases mixed. To be placed on tables by B & W Reps.",
+    "Document ID 1": "/11/9349",
+    "Document ID 2": "466603840"
+  },
+  "tablas": [],
+  "warnings": [
+    "Corrected '908 White' to '90% White' based on context.",
+    "Corrected '45 yxs.' to '45 yrs.' based on context."
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "tipo_documento": "Capital Budget Project",
+  "campos": {
+    "FA 956(5-85)": "FA 956(5-85)",
+    "al 0081. (d)": "al 0081. (d)",
+    "Document Number": "04658",
+    "Date Submitted": null,
+    "Title": "CIGARETTE TEST STATION (CT5400)",
+    "Purpose_Maintenance of Existing Business": "X",
+    "Purpose_Expansion of Existing Business": null,
+    "Purpose_New Products": null,
+    "Purpose_Cost Reduction": null,
+    "Purpose_Compliance with Outside Requirements": null,
+    "Purpose_Company Improvements & Administrative Requirements": null,
+    "Purpose_Quality Improvement": null,
+    "Status_This Project is": "X Proposed",
+    "Status_Approved; Proposal No.": null,
+    "Estimate Cost_TOTAL": "80",
+    "Estimate Cost_CAPITAL": "80",
+    "Estimate Cost_EXPENSE": "0",
+    "Project Dates_Submission Yr.": "88",
+    "Project Dates_Start Mo.": "7",
+    "Project Dates_Start Yr.": "88",
+    "Project Dates_Completion Mo.": "11",
+    "Project Dates_Completion Yr.": "88",
+    "PROJECT DESCRIPTION": "The Cigarette Test Station (CTS400) combines many of the stand-alone instruments that R&D currently uses to measure cigarette weight, pressure drop, ventilation, and hardness into one compact module. The CTS400 has the additional measurement of cigarette hardness in comparison with the CTS300. With this added measurement. R&D will be able to replace the Firmmess Integrator that measures cigarette firmness in addition to other measurements that are mentioned above. The Firmness Integrator is no longer manufactured and parts are becoming difficult to obtain. Lastly, purchase of this instrument would provide similar capability as the Macon Plant and help facilitate comparisions between laboratories.",
+    "Spent Prior to 1989_CAPITAL": "80",
+    "Spent Prior to 1989_EXPENSE": "0",
+    "Balance to Spend_CAPITAL": null,
+    "Balance to Spend_EXPENSE": null,
+    "Submitted by": "W. G. Crain",
+    "Approved by": null,
+    "Control Number": "621099940J"
+  },
+  "tablas": [
+    {
+      "nombre": "1989 SPENDING BY QUARTER",
+      "filas": [
+        {
+          "Category": "CAPITAL",
+          "JAN.-MAR.": null,
+          "APR.-JUN.": null,
+          "JUL.-SEP.": null,
+          "OCT.-DEC.": null,
+          "TOTAL": null
+        },
+        {
+          "Category": "EXPENSE",
+          "JAN.-MAR.": null,
+          "APR.-JUN.": null,
+          "JUL.-SEP.": null,
+          "OCT.-DEC.": null,
+          "TOTAL": null
+        }
+      ]
+    },
+    {
+      "nombre": "YEARLY SPENDING",
+      "filas": [
+        {
+          "YEAR": "1990",
+          "CAPITAL": null,
+          "EXPENSE": null
+        },
+        {
+          "YEAR": "1991",
+          "CAPITAL": null,
+          "EXPENSE": null
+        },
+        {
+          "YEAR": "1992",
+          "CAPITAL": null,
+          "EXPENSE": null
+        },
+        {
+          "YEAR": "1993",
+          "CAPITAL": null,
+          "EXPENSE": null
+        },
+        {
+          "YEAR": "Beyond 1993",
+          "CAPITAL": null,
+          "EXPENSE": null
+        }
+      ]
+    }
+  ],
+  "warnings": [
+    "Value missing for 'Date Submitted'.",
+    "Value missing for 'Status_Approved; Proposal No.'.",
+    "Value missing for 'Balance to Spend_CAPITAL'.",
+    "Value missing for 'Balance to Spend_EXPENSE'.",
+    "Value missing for 'Approved by'.",
+    "Table '1989 SPENDING BY QUARTER' contains empty cells.",
+    "Table 'YEARLY SPENDING' contains empty cells."
+  ]
+}

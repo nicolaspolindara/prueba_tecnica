@@ -1,0 +1,70 @@
+{
+  "tipo_documento": "MARKETING RESEARCH AUTHORIZATION (DOMESTIC)",
+  "campos": {
+    "Date": "March 3, 1995",
+    "Description": "LUCKY STRIKE QUALITATIVE ADVERTISING RESEARCH - GATEWAY CITIES",
+    "No.": "1995-48D",
+    "Requested by": "A. A. Strobel",
+    "Research Req. Attached": "Yes",
+    "Budgeted": "Yes",
+    "Original Budgeted Amount": "$0",
+    "Competitive Proposals Obtained": "Only two bidders because third supplier has not yet signed B&W contract",
+    "Summary of MRD Budget Projected Year": "1995",
+    "Internal Init. Date": "3/1/95",
+    "Total Area Authorized": "500,000",
+    "Field Start Wave(s)": "3/20/95",
+    "Current Balance Available": "382,575",
+    "This Change (From Current Budget)": "29,500",
+    "Field Complete Wave(s)": "3/25/95",
+    "This amount (From Next Year's Budget)": "0",
+    "Final Report Due (Supplier Rpt.) Wave(s)": "3/31/95",
+    "New Balance": "353,075",
+    "Committed to Date (Current Year)": "146,925",
+    "Project Type": "Qualitative Research (Product Test, A&U, etc.)",
+    "Sample Size": null,
+    "Recommended Supplier": "Analytic Insight, Inc.",
+    "Reason(s) for Recommendation": "Lowest Bid",
+    "Submitted By": "Amelia Strobel",
+    "Submitted By Date": "3/3/95",
+    "Approved By (Asst/Mgr Con. Res. (to $100,000))": null,
+    "Approved By (Asst/Mgr Con. Res. (to $100,000)) Date": "3/3/95",
+    "Budget Check By": "Vicki Clark",
+    "Budget Check Date": null,
+    "Project No.": null,
+    "Acct. Name": null,
+    "Original": "Project File"
+  },
+  "tablas": [
+    {
+      "nombre": "Competitive Proposals",
+      "filas": [
+        {
+          "Supplier": "Analytic Insight, Inc.",
+          "Cost ($)": "27,000",
+          "Est. Travel": "2,500",
+          "Total Cost": "29,500",
+          "Cost per Interview": null
+        },
+        {
+          "Supplier": "Goldfarb Consultants",
+          "Cost ($)": "29,216",
+          "Est. Travel": "2,500",
+          "Total Cost": "31,716",
+          "Cost per Interview": null
+        }
+      ]
+    }
+  ],
+  "warnings": [
+    "The 'Submitted By' field's OCR was 'Comi Analy', but was interpreted as 'Amelia Strobel' based on visual context and common naming conventions.",
+    "The 'Sample Size' field is empty.",
+    "The 'Approved By (Asst/Mgr Con. Res. (to $100,000))' field contains a signature, but no extractable text.",
+    "The 'Approved By (Director Forecasting & Mkt. Res. (to $250,000))' field contains a signature, but no extractable text.",
+    "The 'Approved By (Director Forecasting & Mkt. Res. (to $250,000)) Date' field is empty.",
+    "The 'Approved By (Senior VP Marketing (to $1,000,000))' field contains a signature, but no extractable text.",
+    "The 'Budget Check Date' field is empty.",
+    "The 'Project No.' field is empty.",
+    "The 'Acct. Name' field is empty.",
+    "The 'Cost per Interview' column in the 'Competitive Proposals' table is empty for all rows."
+  ]
+}

@@ -1,0 +1,44 @@
+# Dependencias
+node_modules/
+
+# Build / output
+dist/
+build/
+out/
+.next/
+coverage/
+dataset/
+data_prueba/
+service-account.json
+
+.json
+.png
+.jpg
+.jpeg
+.pdf
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Variables de entorno
+.env
+.env.*
+!.env.example
+
+# IDE / editor
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Sistema
+.DS_Store
+Thumbs.db
+__MACOSX/._dataset

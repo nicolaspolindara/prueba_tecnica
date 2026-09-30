@@ -1,0 +1,40 @@
+{
+  "tipo_documento": "INTERNATIONAL MARKETING RESEARCH CHANGE OF AUTHORIZED COST",
+  "campos": {
+    "No.": "27",
+    "Date": "6/21/90",
+    "Description": "Hong Kong: Cigarette Market Monitor",
+    "Supplier": "MDR. HK",
+    "Previous $ Commitments This Project Total Cost": "$ 43.335.00",
+    "Previous $ Commitments This Project 1990 Cost": "$0.00",
+    "Amt. of Change: Increase X Decrease": "$ 4.376.47",
+    "Amt. of Change: (10% Change)": "08",
+    "Adjusted Total Cost of Project": "$ 47,711.4708",
+    "Reasons": "Original MRA did not include cost for the first month of the study (see L. Lee memo of September 11, 1989)",
+    "PROJECTED: Internal Init. Date": null,
+    "Summary of IMRO Budget Total Area Budget": "$2.960.000,00",
+    "Ext. Auth. Date": null,
+    "Current Bal. Available": "1.468.126.23",
+    "Wave(s) Ext. Auth. Date": null,
+    "This Change: (From Current Budget)": "08",
+    "This Amount (From Next Year's Budget)": "0",
+    "Field Complete Wave(s)": null,
+    "New Balance": "1.488.126.15",
+    "Final Report Due (Supplier Rpt.) Wave(s)": null,
+    "Committed to Data: (Current Year)": "1.471.873.85",
+    "Submitted By: Name": "M. D. Davis",
+    "Submitted By: Date": "6/21/90",
+    "Approved By: Name": "N. W. Kremer",
+    "Approved By: Date": "6/22/90",
+    "Original - cc:": "Project File, MRA File, M. W. Kremer",
+    "Project No.": "1989-29",
+    "Account Name": "International",
+    "Document Control Number": "464537440"
+  },
+  "tablas": [],
+  "warnings": [
+    "The value for 'Adjusted Total Cost of Project' appears to have '08' appended directly to the monetary value ($ 47,711.4708), which might be an OCR error or an unusual format.",
+    "The OCR for 'Approved By: Date' was '4/22/90', but visual inspection suggests '6/22/90'. Using '6/22/90'.",
+    "The value '08' is extracted for 'Amt. of Change: (10% Change)' and 'This Change: (From Current Budget)', which might be an unusual value or a placeholder."
+  ]
+}

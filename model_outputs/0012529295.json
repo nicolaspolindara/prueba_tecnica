@@ -1,0 +1,58 @@
+{
+  "tipo_documento": "MARKET RESEARCH AUTHORIZATION",
+  "campos": {
+    "Date": "10/9/87",
+    "No.": "C-40",
+    "Description: CAPRI Expansion": "California - A&U Wave II",
+    "Requested By": "S. H. Trebilcock",
+    "Research Request Attached": "Yes",
+    "Projected Initiation Date": "8/3/87",
+    "Projected Field Start": "9/23/87*",
+    "Projected Field Complete": "10/11/87",
+    "Projected Final Report Due": "11/16/87",
+    "Summary of Research Budget: Total Area Budget": "780,900,00",
+    "Summary of Research Budget: Current Bal. Available": "(381,583,08)",
+    "Summary of Research Budget: This Change (From Current Budget)": "-70,825,00",
+    "Summary of Research Budget: This Amount (From Next Year's Budget)": "-0-",
+    "Summary of Research Budget: New Balance": "(452,408,08)",
+    "Committed to Date (Current Year)": "1,233,308,08",
+    "Sample Size": "1,500",
+    "Recommended Supplier": "Kapuler Marketing Research",
+    "Reason(s) for Recommendation": "Low bidder.",
+    "Submitted By": "L. J. Spurtier",
+    "Submitted By Date": "10/9/87",
+    "Approved By (1)": "L. E. Gravely",
+    "Approved By (1) Date": "10/13/87",
+    "Budget Check": "K. F. Lyle",
+    "cc: S. Willinger": "S. Willinger (3)",
+    "cc: G. D. Raphael": "G. D. Raphael",
+    "cc: V. Hansberry": "V. Hansberry (If Int.)",
+    "Project No.": "1987-113CA",
+    "Account Name": "CAPRI"
+  },
+  "tablas": [
+    {
+      "nombre": "Competitive Proposals Obtained",
+      "filas": [
+        {
+          "Supplier": "Kapuler Market Research",
+          "Cost ($)": "$70,825 +/- 10%",
+          "Est. Travel": "-0-",
+          "Total Cost": "$70,825 +/- 10%",
+          "Cost Per Interview": "$47.22"
+        },
+        {
+          "Supplier": "Market Facts, Inc.",
+          "Cost ($)": "$112,000 +/- 10%",
+          "Est. Travel": "-0-",
+          "Total Cost": "$112,000 +/- 10%",
+          "Cost Per Interview": "$74.67"
+        }
+      ]
+    }
+  ],
+  "warnings": [
+    "Handwritten note: \"Revised por 6DR request; waves II-IV to be on one MRA LS\"",
+    "Handwritten note: \"*Actual start date on the part of supplier. Technically was due to start 9/7 (the 10 week post-intro period) See Project File Note LJS 10/13/87\""
+  ]
+}
